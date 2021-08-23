@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on AWS Solutions Architect Associate
+- 🔭 I’m currently working on ML Pipelines on AWS
 - 🌱 I’m currently learning [Dash](https://plotly.com/dash/)
 
 ## 🔧 Technologies & Tools
