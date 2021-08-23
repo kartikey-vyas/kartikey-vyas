@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey-vyas&hide=html&exclude_repo=ecogydapp&theme=tokyonight&langs_count=3" />
 </a>
 <a href="https://github.com/kartikey-vyas/kartikey-vyas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikey-vyas&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Kartikey's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikey-vyas&show_icons=true&line_height=27&count_private=true&theme=tokyonight&include_all_commits=true" alt="Kartikey's GitHub Stats" />
 </a>
 
 ### Follow Me
