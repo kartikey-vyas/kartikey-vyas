@@ -1,4 +1,5 @@
-### Hi there 👋
+### Kia Ora 👋
+My name is Kartikey and I'm a data scientist. I'm currently based in Auckland, New Zealand :new_zealand:. 
 
 <!--
 **kartikey-vyas/kartikey-vyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on AWS Solutions Architect Associate
+- 🌱 I’m currently learning [Dash](https://plotly.com/dash/)
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/kartikey-vyas/kartikey-vyas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey-vyas&hide=html&exclude_repo=ecogydapp&theme=tokyonight&langs_count=3" />
+</a>
+<a href="https://github.com/kartikey-vyas/kartikey-vyas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikey-vyas&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Kartikey's GitHub Stats" />
+</a>
+
+### Follow Me
+<a href="https://www.linkedin.com/in/kartikey-vyas/">
+  <img src="https://simpleicons.org/icons/linkedin.svg" width="35" />
+</a>
+
+<a href="https://open.spotify.com/user/1289815412?si=aac80acfeb8f4b9e">
+  <img src="https://simpleicons.org/icons/spotify.svg" width="35" />
+</a>
