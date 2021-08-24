@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/kartikey-vyas/kartikey-vyas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey-vyas&hide=html&exclude_repo=ecogydapp&theme=tokyonight&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey-vyas&hide=html,jupyter notebook&exclude_repo=ecogydapp&theme=tokyonight&langs_count=3" />
 </a>
 <a href="https://github.com/kartikey-vyas/kartikey-vyas">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikey-vyas&show_icons=true&line_height=27&count_private=true&theme=tokyonight&include_all_commits=true" alt="Kartikey's GitHub Stats" />
