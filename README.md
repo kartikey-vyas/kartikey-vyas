@@ -1,5 +1,5 @@
-### Kia Ora 👋
-My name is Kartikey and I'm a data scientist. I'm currently based in Auckland, New Zealand :new_zealand:. 
+### Hi, I'm Kartikey
+Data scientist, currently based in Auckland, New Zealand :new_zealand:. Formula 1, MMA and Basketball Fan. Keen find ways to use data science for sustainability.
 
 <!--
 **kartikey-vyas/kartikey-vyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Currently...
+- 🔭 Working on building ML Pipelines on AWS
+- 🌱 Learning [Dash](https://plotly.com/dash/)
 
-- 🔭 I’m currently working on ML Pipelines on AWS
-- 🌱 I’m currently learning [Dash](https://plotly.com/dash/)
-- 💬 Let me know about any cool VS Code extensions!
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
