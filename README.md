@@ -1,5 +1,5 @@
 ### Hi, I'm Kartikey
-Data scientist, currently based in Auckland, New Zealand :new_zealand:. Formula 1, MMA and Basketball Fan. Keen find ways to use data science for sustainability.
+Data scientist, currently based in Auckland, New Zealand :new_zealand:. Formula 1, MMA and Basketball Fan. Keen to find ways to use data science for sustainability.
 
 <!--
 **kartikey-vyas/kartikey-vyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
