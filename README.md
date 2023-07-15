@@ -1,5 +1,5 @@
 ### Hi, I'm Kartikey
-ML Engineer, currently based in Melbourne, Australia :australia:. Formula 1, MMA and Basketball Fan. Keen to find ways to use data science for sustainability.
+Software Engineer, currently based in Melbourne, Australia :australia:. Formula 1, MMA and Basketball Fan. Keen to find ways to use data science for sustainability.
 
 <!--
 **kartikey-vyas/kartikey-vyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 #### Currently...
-- 🔭 Working on building ML Pipelines on AWS
+- 🔭 Working on building production AI/ML systems
 - 🌱 Learning [Dash](https://plotly.com/dash/)
 -->
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </a>
 
 ### Follow Me
-<a href="https://www.linkedin.com/in/kartikey-vyas/">
+<a href="https://www.linkedin.com/in/krtkyvy/">
   <img src="https://simpleicons.org/icons/linkedin.svg" width="35" />
 </a>
 
