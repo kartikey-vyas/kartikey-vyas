@@ -1,5 +1,10 @@
 ### Hi, I'm Kartikey
-ML Engineer, currently based in Melbourne, Australia :australia:. Formula 1, MMA and Basketball Fan. Keen to find ways to use data science for sustainability.
+
+* 🇦🇺 Based in Melbourne
+* 🚀 Senior Engineer at [Artificial Analysis](https://artificialanalysis.ai/)
+* 🌱 Fellow at the [Good Data Institute](https://www.gooddatainstitute.com/)
+
+<br>
 
 <!--
 **kartikey-vyas/kartikey-vyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,12 +25,8 @@ Here are some ideas to get you started:
 - 🌱 Learning [Dash](https://plotly.com/dash/)
 -->
 
-
-### Follow Me
-<a href="https://www.linkedin.com/in/krtkyvy/">
-  <img src="https://simpleicons.org/icons/linkedin.svg" width="35" />
-</a>
+---
 
 <a href="https://open.spotify.com/user/1289815412?si=aac80acfeb8f4b9e">
-  <img src="https://simpleicons.org/icons/spotify.svg" width="35" />
+  <img src="https://simpleicons.org/icons/spotify.svg" width="25" />
 </a>
