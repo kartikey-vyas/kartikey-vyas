@@ -1,7 +1,7 @@
 ### Hi, I'm Kartikey
 
 * 🇦🇺 Based in Melbourne
-* 🚀 Senior Engineer at [Artificial Analysis](https://artificialanalysis.ai/)
+* 🚀 Lead ML Engineer at [Artificial Analysis](https://artificialanalysis.ai/)
 * 🌱 Fellow at the [Good Data Institute](https://www.gooddatainstitute.com/)
 
 <br>
